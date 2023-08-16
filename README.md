@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LordBrim
-- 👀 I used to be interested in game development, ai, and machine learning. Now I am interested in android software development and e-commerce.
-- 🌱 I’m currently learning html, css, and javascript to create my online portfolio. 
-- 💞️ I’m looking to collaborate on ... I don't know yet.
+- 👀 I used to be interested in game development and android development. Now I don't know what to do. I am now pursuing a career in web development and slowly furnishing my skills to learn A.I. and machine learning.
+- 🌱 I’m currently learning all kinds of stuff to build my portfolio.
+- 💞️ I’m looking to collaborate on ... web development projects and hints of A.I..
 - 📫 How to reach me ... I am not yet done setting up.
 
 <!---
