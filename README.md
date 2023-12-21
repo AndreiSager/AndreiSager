@@ -87,6 +87,10 @@ I'm a software developer, focused in building remarkable websites, mobile applic
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />        
 </a>
 
+<a href="https://obsidian.md">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />        
+</a>
+
 <!-- 🔧 IDE's: -->
 
 <a href="https://code.visualstudio.com">
