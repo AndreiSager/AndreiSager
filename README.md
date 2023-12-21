@@ -23,6 +23,12 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 <div align="center">
 
+<!-- 🤟 Programming Language:  -->
+
+<a href="">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />  
+</a>
+
 <!-- 📱 Mobile:  -->
 
 <a href="https://reactnative.dev">
@@ -74,7 +80,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 </a>
 
 <a href="https://www.markdownguide.org">
-  <img src="" />        
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />        
 </a>
 
 <!-- 🔧 IDE's: -->
