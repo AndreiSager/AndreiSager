@@ -1,6 +1,6 @@
 ![Andrei Sager's GitHub Banner](./assets/images/github-header-banner.png)
 
-### Connect With Me
+### Connect With Me Using
 
 <a href="mailto:andreiwork25@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
