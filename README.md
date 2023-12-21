@@ -16,10 +16,12 @@
 
 I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
 
-- 💞️ I enjoy collaborating, contributing, and learning from others for projects.
+- 💞️ I enjoy collaborating, contributing, and learning from others through projects.
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
 
 ### 🛠 Tech Stack
+
+<div alight="center">
 
 <!-- 📱 Mobile:  -->
 
@@ -80,6 +82,8 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 <a href="https://vercel.com/">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />        
 </a>
+
+</div>
 
 ---
 
