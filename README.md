@@ -11,6 +11,7 @@
 </a>&nbsp;&nbsp;
 
 ---
+
 ### Nice To Meet You 👋, I'm Andrei Sager.
 
 I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
@@ -19,10 +20,9 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
 
 ### 🛠 Tech Stack
-#### 📱 Mobile: 
 
-<a href="https://reactnative.dev">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />        
+📱 Mobile: <a href="https://reactnative.dev">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
 </a>
 
 #### 🗄 Backend: Node.js
