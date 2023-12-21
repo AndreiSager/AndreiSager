@@ -1,4 +1,4 @@
-#### Nice To Meet You 👋, I'm Andrei Sager.
+### Nice To Meet You 👋, I'm Andrei Sager.
 
 I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
 
