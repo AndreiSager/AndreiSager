@@ -12,10 +12,10 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 📱  Mobile:  React Native
 🗄  Backend:  Node.js
 🌐  Frontend:  React Next.js
-🛢  Database:  MongoDB MySQL Postgresql
-⚙️  VCS:   Git GitHub Markdown
-🔧  IDE's:  Visual Studio Code Vim
-🖥  Design:  AdobeXD Framer Figma
+🛢  Database:  MongoDB Firebase
+⚙️  VCS: GitHub Markdown
+🔧  IDE's:  Visual Studio Code
+🖥  Design: Figma
 
 ---
 ### Contact Me #todo
