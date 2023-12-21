@@ -1,5 +1,6 @@
 ![Andrei Sager's GitHub Banner](./assets/images/github-header-banner.png)
-
+### Connect With Me 
+---
 ### Nice To Meet You 👋, I'm Andrei Sager.
 
 I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
@@ -19,9 +20,6 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ![Figma](./assets/icons/figma.svg)
 
----
-
-### Connect With Me #todo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Sager&layout=donut)](https://github.com/Andrei-Sager/github-readme-stats)
 ![Andrei Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Sager&show_icons=true)
