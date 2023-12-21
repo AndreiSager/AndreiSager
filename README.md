@@ -9,8 +9,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 - 💞️ I’m looking to collaborate on ... web development projects and hints of A.I..
 - 📫 You can reach me through my social media platforms
 
----
-#### 🛠 Tech Stack #todo
+### 🛠 Tech Stack #todo
 📱  Mobile:  React Native
 🗄  Backend:  Node.js
 🌐  Frontend:  React Next.js
@@ -20,4 +19,4 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 🖥  Design:  AdobeXD Framer Figma
 
 ---
-#### Contact Me #todo
+### Contact Me #todo
