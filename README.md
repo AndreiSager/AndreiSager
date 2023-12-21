@@ -8,13 +8,12 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
 
 ### 🛠 Tech Stack #todo
-
-📱 Mobile: React Native
-🗄 Backend: Node.js
-🌐 Frontend: React Next.js
-🛢 Database: MongoDB Firebase
-⚙️ VCS: GitHub Markdown
-🔧 IDE's: Visual Studio Code
+#### 📱 Mobile: React Native
+#### 🗄 Backend: Node.js
+#### 🌐 Frontend: React Next.js
+#### 🛢 Database: MongoDB Firebase
+#### ⚙️ VCS: GitHub Markdown
+#### 🔧 IDE's: Visual Studio Code
 
 #### 🖥 Design:
 
