@@ -5,6 +5,7 @@
 <a href="mailto:andreiwork25@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/andrei-sager-34a452265/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
@@ -36,6 +37,18 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 <!-- 🌐 Frontend: -->
 
+<a href="">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />        
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />        
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
+</a>
+
 <a href="https://react.dev">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
 </a>
@@ -57,7 +70,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 <!-- ⚙️ VCS: -->
 
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />        
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />        
 </a>
 
 <a href="https://www.markdownguide.org">
@@ -74,6 +87,20 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 <a href="https://www.figma.com">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />        
+</a>
+
+<!-- 📚 Frameworks, Platforms and Libraries: -->
+
+<a href="">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />        
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />        
+</a>
+
+<a href="">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />        
 </a>
 
 <!-- ☁️ Deployment: -->
