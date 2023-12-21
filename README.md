@@ -21,7 +21,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ### 🛠 Tech Stack
 
-<div alight="center">
+<div align="center">
 
 <!-- 📱 Mobile:  -->
 
