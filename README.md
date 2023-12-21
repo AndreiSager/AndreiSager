@@ -3,10 +3,8 @@
 
 I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
 
-- 👀 I used to be interested in game development and android development. Now I don't know what to do. I am now pursuing a career in web development and slowly furnishing my skills to learn A.I. and machine learning.
-- 🌱 I’m currently learning all kinds of stuff to build my portfolio.
-- 💞️ I’m looking to collaborate on ... web development projects and hints of A.I..
-- 📫 You can reach me through my social media platforms
+- 💞️ I enjoy collaborating with others from creating simple to complex projects.
+- 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer. 
 
 ### 🛠 Tech Stack #todo
 📱  Mobile:  React Native
@@ -18,4 +16,4 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 🖥  Design: Figma
 
 ---
-### Contact Me #todo
+### Connect With Me #todo
