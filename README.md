@@ -15,7 +15,10 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 🛢 Database: MongoDB Firebase
 ⚙️ VCS: GitHub Markdown
 🔧 IDE's: Visual Studio Code
-🖥 Design: Figma
+
+#### 🖥 Design:
+
+![Figma](./assets/icons/figma.svg)
 
 ---
 
