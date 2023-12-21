@@ -2,6 +2,8 @@
 
 ### Connect With Me
 
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+
 ---
 
 ### Nice To Meet You 👋, I'm Andrei Sager.
