@@ -21,17 +21,19 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ### 🛠 Tech Stack
 
-📱 Mobile: <a href="https://reactnative.dev">
+<!-- 📱 Mobile:  -->
+
+<a href="https://reactnative.dev">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
 </a>
 
-#### 🗄 Backend: Node.js
+<!-- 🗄 Backend: -->
 
 <a href="https://nodejs.org/en">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />        
 </a>
 
-#### 🌐 Frontend: React Next.js
+<!-- 🌐 Frontend: -->
 
 <a href="https://react.dev">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
@@ -41,7 +43,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />        
 </a>
 
-#### 🛢 Database:
+<!-- 🛢 Database: -->
 
 <a href="https://www.mongodb.com">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />        
@@ -51,7 +53,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />        
 </a>
 
-#### ⚙️ VCS:
+<!-- ⚙️ VCS: -->
 
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />        
@@ -61,19 +63,19 @@ I'm a software developer, focused in building remarkable websites, mobile applic
   <img src="" />        
 </a>
 
-#### 🔧 IDE's:
+<!-- 🔧 IDE's: -->
 
 <a href="https://code.visualstudio.com">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />        
 </a>
 
-#### 🖥 Design:
+ <!-- 🖥 Design: -->
 
 <a href="https://www.figma.com">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />        
 </a>
 
-#### ☁️ Deployment:
+<!-- ☁️ Deployment: -->
 
 <a href="https://vercel.com/">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />        
