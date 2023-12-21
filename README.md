@@ -129,4 +129,3 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Sager&layout=donut)](https://github.com/Andrei-Sager/github-readme-stats)
 ![Andrei Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Sager&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrei-Sager&theme=dark&background=000000)](https://git.io/streak-stats)
