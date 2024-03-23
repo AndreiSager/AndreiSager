@@ -127,5 +127,5 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Sager&layout=donut)](https://github.com/Andrei-Sager/github-readme-stats)
-![Andrei Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Sager&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSager&layout=donut)](https://github.com/Andrei-Sager/github-readme-stats)
+![Andrei Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiSager&show_icons=true)
