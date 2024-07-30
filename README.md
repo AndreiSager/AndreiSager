@@ -1,6 +1,5 @@
 ![Andrei Sager's GitHub Banner](https://github.com/user-attachments/assets/93ef0ba1-1a54-470a-b3b0-08e6f053dd70)
 
-
 ### Contact Me
 
 <a href="mailto:andreiwork25@gmail.com">
@@ -11,7 +10,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
----
 
 ### Nice To Meet You 👋, I'm Andrei Sager.
 
@@ -19,6 +17,8 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 - 💞️ I enjoy collaborating, contributing, and learning from others through projects.
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
+
+---
 
 ### 🛠 Tech Stack
 
@@ -126,7 +126,4 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 </div>
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSager&layout=donut)](https://github.com/Andrei-Sager/github-readme-stats)
-![Andrei Sager's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiSager&show_icons=true)
