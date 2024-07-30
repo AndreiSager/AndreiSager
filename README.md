@@ -1,4 +1,5 @@
-![Andrei Sager's GitHub Banner](./assets/images/github-header-banner.png)
+![Andrei Sager's GitHub Banner](https://github.com/user-attachments/assets/93ef0ba1-1a54-470a-b3b0-08e6f053dd70)
+
 
 ### Contact Me
 
