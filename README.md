@@ -9,7 +9,16 @@ I'm a Freelance Full-Stack Software Developer based in the Philippines.
 - ☕ For leisure I enjoy reading books, I also like creative writing,  and someday I want to become a novel author alongside being a software engineer.
 - 💞️ I like learning things hands-on, on my own or with others by building projects—creating, collaborating, and contributing whenever I can.
 
-# 
+#
+
+### ⚡️ Where to Find Me
+
+<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
+<a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+
+#
+
+### ⏩ Questions You Can Skip
 
 <details>
   <summary>👑 What Is Lored?</summary>
@@ -25,13 +34,6 @@ I'm a Freelance Full-Stack Software Developer based in the Philippines.
 <br/>
 <br/>
 </details>
-
-#
-
-### ⚡️ Where to Find Me
-
-<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
-<a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 
 ---
 
