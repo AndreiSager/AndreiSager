@@ -1,22 +1,41 @@
-![Andrei Sager's GitHub Banner](https://github.com/user-attachments/assets/93ef0ba1-1a54-470a-b3b0-08e6f053dd70)
+# Greetings 👋, I'm Andrei Sager.
 
-## 🔮 About Me
+I'm a Freelance Full-Stack Software Developer based in the Philippines. 
 
-🔭 I’m currently working on my passion project. Lored is something I have been wanting to build for a long time. 
+**`Software Developer/Creative Writer`**
 
-### Nice To Meet You 👋, I'm Andrei Sager.
+- 🔮 I am currently working on my passion project, which I call **Lored**.
+- 📚 I am currently learning about how to make multi-platform apps using **Tauri** starting with desktop.
+- ☕ For leisure I enjoy reading books, I also like creative writing,  and someday I want to become a novel author alongside being a software engineer.
+- 💞️ I like learning things hands-on, on my own or with others by building projects—creating, collaborating, and contributing whenever I can.
 
-I'm a software developer based on the Philippines, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
+# 
 
-- 💞️ I enjoy collaborating, contributing, and learning from others through projects.
-- 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
+<details>
+  <summary>👑 What Is Lored?</summary>
+  <br/>
+  Lored is a multi-platform app that writers can use to organize, plot, and write their own novel worlds. Lored is something I have been wanting to build for a long time. I wanted to combine my skills in programming and creative writing into a single project while addressing my frustrations with the existing apps that I have been using to write my novel. 
+  <br/>
+  <br/>
+</details>
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
+<details><summary>🚀 My Programming Journey</summary>
+<br/>
+
+<br/>
+<br/>
+</details>
+
+#
+
+### ⚡️ Where to Find Me
+
+<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
+<a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 
 ---
 
-## 🛠️ Languages and Tools I Use <!-- Reusable Template  ![]()  -->
+### 🛠️ Languages and Tools I Use <!-- Reusable Template  ![]()  -->
 
 <div align="center">
   
@@ -42,8 +61,9 @@ I'm a software developer based on the Philippines, focused in building remarkabl
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-contributor-stats.vercel.app/api?username=AndreiSager&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AndreiSager&icon=7&color=4)](https://visitcount.itsvg.in)
