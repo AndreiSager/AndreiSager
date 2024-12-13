@@ -13,8 +13,8 @@ I'm a Freelance Full-Stack Software Developer based in the Philippines.
 
 ### ⚡️ Where to Find Me
 
-<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
-<a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
+<a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="Dev.to" /></a>
 
 #
 
