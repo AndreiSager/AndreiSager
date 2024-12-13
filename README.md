@@ -34,7 +34,7 @@ I'm a Freelance Full-Stack Software Developer based in the Philippines.
   <br/>
 </details>
 
-<details><summary>🚀 My Programming Journey</summary>
+<details><summary>🚀 My Programming Journey (WIP)</summary>
 <br/>
 
 <br/>
