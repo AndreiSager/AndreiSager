@@ -3,6 +3,8 @@
 
 ![Andrei Sager's GitHub Banner](https://github.com/user-attachments/assets/93ef0ba1-1a54-470a-b3b0-08e6f053dd70)
 
+
+
 ### Contact Me
 
 <a href="mailto:andreiwork25@gmail.com">
@@ -13,6 +15,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
+# 💫 About Me:
+
+🔭 I’m currently working on my passion project. Lored is something I have been wanting to build for a long time. 
 
 ### Nice To Meet You 👋, I'm Andrei Sager.
 
@@ -21,10 +26,13 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 - 💞️ I enjoy collaborating, contributing, and learning from others through projects.
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
 
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
+
+
 ---
 
 
-### 🛠 Tech Stack
 
 <div align="center">
 
@@ -36,18 +44,6 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 <a href="">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />  
-</a>
-
-<!-- 📱 Mobile:  -->
-
-<a href="https://reactnative.dev">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />  
-</a>
-
-<!-- 🗄 Backend: -->
-
-<a href="https://nodejs.org/en">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />        
 </a>
 
 <!-- 🌐 Frontend: -->
@@ -130,21 +126,13 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 </div>
 
+### 🚀 Languages and Tools I Use
 
-[![](https://visitcount.itsvg.in/api?id=AndreiSager&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
-🔭 I’m currently working on my passion project. Lored is something I have been wanting to build for a long time. 
-
-
-# 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndreiSager&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=AndreiSager&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
@@ -152,20 +140,3 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<h1>🔮 Andrei Sager</h1>
-<p>A passionate frontend developer from </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
