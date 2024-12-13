@@ -1,27 +1,12 @@
-# 🔮 Andrei Sager
-
-
 ![Andrei Sager's GitHub Banner](https://github.com/user-attachments/assets/93ef0ba1-1a54-470a-b3b0-08e6f053dd70)
 
-
-
-### Contact Me
-
-<a href="mailto:andreiwork25@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/andrei-sager-34a452265/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
-</a>&nbsp;&nbsp;
-
-# 💫 About Me:
+## 🔮 About Me
 
 🔭 I’m currently working on my passion project. Lored is something I have been wanting to build for a long time. 
 
 ### Nice To Meet You 👋, I'm Andrei Sager.
 
-I'm a software developer, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
+I'm a software developer based on the Philippines, focused in building remarkable websites, mobile applications, and everything that interests me in the digital spectrum.
 
 - 💞️ I enjoy collaborating, contributing, and learning from others through projects.
 - 📚 I enjoy reading books, I also like writing, and someday I want to become an author alongside with becoming a software engineer.
@@ -32,29 +17,7 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ---
 
-
-
 <div align="center">
-
-<!-- 🤟 Programming Language:  -->
-
-<a href="">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />  
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />  
-</a>
-
-<!-- 🌐 Frontend: -->
-
-<a href="">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />        
-</a>
-
-<a href="">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />        
-</a>
 
 <a href="">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
@@ -128,7 +91,32 @@ I'm a software developer, focused in building remarkable websites, mobile applic
 
 ### 🚀 Languages and Tools I Use
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Reusable Template  ![]()  -->
+
+<!-- 🤟 Programming Language:  -->
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- 🌐 Frontend: -->
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5]()
+
+
+
+<a href="">
+  <img src="" />        
+</a>
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
 
