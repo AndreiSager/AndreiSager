@@ -62,7 +62,6 @@ I'm a Freelance Full-Stack Software Developer based in the Philippines.
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-contributor-stats.vercel.app/api?username=AndreiSager&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
 
