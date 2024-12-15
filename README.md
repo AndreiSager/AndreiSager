@@ -12,10 +12,10 @@
 ### ⚡️ Where to Find Me
 
 <a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
-<a target="_blank" href="https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 <a target="_blank" href="mailto:andreisager@proton.me" style="display: inline-block;"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Dev.to" /></a>
 
 <!-- For the future
+<a target="_blank" href="https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 -->
