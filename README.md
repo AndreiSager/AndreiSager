@@ -1,9 +1,11 @@
 # Greetings 👋, I am Andrei Sager, a Software Developer 
 
 **`Software Developer/Creative Writer`**
-
+<!--
 - 🔮 Currently, I am working on my passion project, which I call **Lored**.
 - 📚 I am currently learning about how to make multi-platform apps using **Tauri** starting with desktop.
+-->
+- 🔮 Currently, I am working on Gun Point Writing.
 - ☕ For leisure I enjoy reading books, creative writing, and physical activities. Someday I want to become a novel author alongside being a software engineer.
 - 💞️ I like learning things hands-on, on my own, or with others by building projects—creating, collaborating, and contributing whenever I can.
 
@@ -24,6 +26,7 @@
 
 ### ⏩ You Can Skip This
 
+<!-- For the future
 <details>
   <summary>👑 What Is Lored?</summary>
   <br/>
@@ -31,6 +34,7 @@
   <br/>
   <br/>
 </details>
+-->
 
 <details><summary>🚀 My Programming Journey</summary>
 <br/>
