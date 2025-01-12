@@ -1,3 +1,12 @@
+
+<div align="center">
+
+[about me](https://github.com/AndreiSager/AndreiSager/blob/main/ABOUTME.md)
+
+</div>
+
+---
+
 ### 🛠️ Languages and Tools I Use <!-- Reusable Template  ![]()  -->
 
 <div align="center">
