@@ -90,7 +90,3 @@ Now, my goal is to create the best writing software whatever it takes. Although 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <!-- ☁️ Deployment: -->
 
 </div>
-
----
-
-![](https://komarev.com/ghpvc/?username=AndreiSager&color=red)
