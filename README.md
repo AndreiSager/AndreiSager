@@ -102,4 +102,4 @@ I have decided to only put the languages and tools I am confindent with because 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AndreiSager&icon=7&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AndreiSager&color=red)
