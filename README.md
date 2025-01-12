@@ -1,4 +1,4 @@
-# Greetings 👋, I am Andrei Sager, a Software Developer 
+### Greetings 👋, I am Andrei Sager, a Software Developer 
 
 <!--
 - 🔮 Currently, I am working on my passion project, which I call **Lored**.
@@ -8,24 +8,7 @@
 - ☕ For leisure I enjoy reading books, creative writing, and physical activities. Someday I want to become a novel author alongside being a software engineer.
 - 💞️ I like learning things hands-on, on my own, or with others by building projects—creating, collaborating, and contributing whenever I can.
 
-#
-
-### ⚡️ Where to Find Me
-
-<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
-<a target="_blank" href="mailto:andreisager@proton.me" style="display: inline-block;"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Dev.to" /></a>
-
-<!-- For the future
-<a target="_blank" href="https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
--->
-
-#
-
-### ⏩ You Can Skip This
-
-<details><summary>🚀 My Programming Journey</summary>
+<details><summary>🚀 My Programming Journey (⏩ You Can Skip This)</summary>
 <br/>
 I started my programming journey as a financial management (FM) college student, learning the ropes of money and finance. However, one year in, I realized this path wasn’t for me. Financial management felt unfulfilling, and I found myself questioning my purpose.
 
@@ -40,6 +23,19 @@ This crossroads of programming and writing led me to a unique solution: combinin
 Now, my ultimate goal is clear: to create the best writing software possible, no matter the effort it takes. Although AI tools like ChatGPT have become increasingly common and impressive, I’ll continue to write because I genuinely enjoy the process and the creativity it brings.
 <br/>
 </details>
+
+#
+
+### ⚡️ Where to Find Me
+
+<a target="_blank" href="https://github.com/AndreiSager" style="display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
+<a target="_blank" href="mailto:andreisager@proton.me" style="display: inline-block;"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Dev.to" /></a>
+
+<!-- For the future
+<a target="_blank" href="https://dev.to/andreisager" style="display: inline-block;"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+-->
 
 ---
 
