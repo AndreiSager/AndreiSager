@@ -1,6 +1,5 @@
 # Greetings 👋, I am Andrei Sager, a Software Developer 
 
-**`Software Developer/Creative Writer`**
 <!--
 - 🔮 Currently, I am working on my passion project, which I call **Lored**.
 - 📚 I am currently learning about how to make multi-platform apps using **Tauri** starting with desktop.
