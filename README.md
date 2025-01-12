@@ -90,8 +90,6 @@ Now, my goal is to create the best writing software whatever it takes. Although 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <!-- 📝 Documentation -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <!-- ☁️ Deployment: -->
 
-I have decided to only put the languages and tools I am confindent with because of this [hilarious article](https://monicalent.com/blog/2020/04/21/software-developer-resume-tips/).
-
 </div>
 
 ---
