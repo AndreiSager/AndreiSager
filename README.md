@@ -1,4 +1,4 @@
-### Greetings 👋, I am Andrei Sager, a Software Developer 
+### What's Up 👋
 
 <!--
 - 🔮 Currently, I am working on my passion project, which I call **Lored**.
