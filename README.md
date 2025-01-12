@@ -94,12 +94,6 @@ I have decided to only put the languages and tools I am confindent with because 
 
 </div>
 
-#
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AndreiSager&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=AndreiSager&color=red)
