@@ -25,16 +25,6 @@
 
 ### ⏩ You Can Skip This
 
-<!-- For the future
-<details>
-  <summary>👑 What Is Lored?</summary>
-  <br/>
-  Lored is a multi-platform app designed for writers to organize, plot, and write whatever they want. It’s a project I’ve dreamed of building for a long time—a place where my skills in programming and creative writing come together. The idea for Lored was born out of my own frustrations with existing writing apps. As I worked on my novel, I kept finding limitations and inefficiencies in the tools I was using. I wanted something that could cater to both the technical and creative sides of writing, and that’s exactly what Lored is set out to do.
-  <br/>
-  <br/>
-</details>
--->
-
 <details><summary>🚀 My Programming Journey</summary>
 <br/>
 I started my programming journey as a financial management (FM) college student, learning the ropes of money and finance. However, one year in, I realized this path wasn’t for me. Financial management felt unfulfilling, and I found myself questioning my purpose.
@@ -50,22 +40,6 @@ This crossroads of programming and writing led me to a unique solution: combinin
 Now, my ultimate goal is clear: to create the best writing software possible, no matter the effort it takes. Although AI tools like ChatGPT have become increasingly common and impressive, I’ll continue to write because I genuinely enjoy the process and the creativity it brings.
 <br/>
 </details>
-
-<!-- My writing has been replaced by A.I.
-  Lored is a multi-platform app that writers can use to organize, plot, and write whatever they want. Lored is something I have been wanting to build for a long time. I wanted to combine my skills in programming and creative writing into a single project while addressing my frustrations with the existing apps that I have been using to write my novel. 
--->
-
-<!-- My writing has been replaced by A.I.
-I started my programming journey as a financial management (FM) college student learning the ropes about money. One year in, I soon came to regret my decision and had the realization this wasn't what I wanted. Financial management was not for me. 
-
-Amid my despair, lost, without a purpose to live, I suddenly remembered that ever since I was a child I had always been interested in computers. With that in mind, I shifted courses into information technology (IT), just to test the waters, but I eventually became more interested in software and shifted my course again into computer science (CS).
-
-Many people say that a CS degree is not necessary to become a software engineer, and I wholeheartedly agree, but graduating from this four-year-long path allowed me to discover many different things about myself and programming that I didn't know. Programming made me understand that things take time, effort, consistency, and most importantly, persistence as I frequently ran into roadblocks. I became interested in not only writing code but also in writing stories. Honestly, pursuing to become a novel author in the middle of a CS degree was a bad choice, but I don't regret it as I enjoyed reading the stories made by others and writing my very own.
-
-Wanting to become a novel writer in the middle of studying for my computer science degree led me to a dilemma on which to pursue. Since programming and writing are pretty much similar, I quickly found a way to enjoy both at the same time by making writing software and writing tools as my side projects. 
-
-Now, my goal is to create the best writing software whatever it takes. Although A.I. is cool I still enjoy writing on my own.
--->
 
 ---
 
