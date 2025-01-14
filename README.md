@@ -1,14 +1,3 @@
-
-<div align="center">
-
-[about me](https://github.com/AndreiSager/AndreiSager/blob/main/ABOUTME.md)
-
-</div>
-
----
-
-### 🛠️ Languages and Tools I Use <!-- Reusable Template  ![]()  -->
-
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- 🤟 Programming Languages  --> 
@@ -28,3 +17,5 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <!-- ☁️ Deployment: -->
 
 </div>
+
+<!-- Reusable Template  ![]()  -->
